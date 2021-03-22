@@ -6,8 +6,8 @@ ELKStackExample
 
 ## Requirements
 
-- Elasticsearch
-- logstash
+- Elasticsearch[https://www.elastic.co/downloads/elasticsearch]
+- logstash[https://www.elastic.co/downloads/logstash]
 - kibana[https://www.elastic.co/downloads/kibana]
 - Spring Boot 
 
