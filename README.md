@@ -8,7 +8,7 @@ ELKStackExample
 
 - Elasticsearch
 - logstash
-- kibana
+- kibana[https://www.elastic.co/downloads/kibana]
 - Spring Boot 
 
 ## Installation process
