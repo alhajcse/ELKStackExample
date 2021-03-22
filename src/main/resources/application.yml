@@ -1,0 +1,20 @@
+server:
+  port: 8181
+
+
+logging:
+  file:
+    name: /home/samsuddin/Desktop/log/elk_stack_file.log
+
+spring:
+  application:
+    name: ELK-TEST
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/auth_db?createIfNotExists=true
+    username: root
+    password: 12345678
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
