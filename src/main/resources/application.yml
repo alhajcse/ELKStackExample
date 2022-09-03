@@ -4,7 +4,7 @@ server:
 
 logging:
   file:
-    name: /home/samsuddin/Desktop/log/elk_stack_file.log
+    name: /home/Desktop/log/elk_stack_file.log
 
 spring:
   application:
